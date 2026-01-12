@@ -25,3 +25,6 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobaqz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notobaqz&layout=compact&theme=tokyonight&hide_border=true)
