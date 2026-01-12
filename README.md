@@ -22,9 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=notobaqz&show_icons=true&hide_title=false&theme=tokyonight&hide_border=true" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notobaqz&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notobaqz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notobaqz&layout=compact&theme=tokyonight&hide_border=true)
