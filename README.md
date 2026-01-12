@@ -1,9 +1,20 @@
-
 ## quick links
 
-[![profile views](https://komarev.com/ghpvc/?username=notobaqz\&style=flat\&label=views)](https://github.com/notobaqz)
-[![followers](https://img.shields.io/github/followers/notobaqz?style=flat)](https://github.com/notobaqz)
-[![stars](https://img.shields.io/github/stars/notobaqz?style=flat)](https://github.com/notobaqz?tab=stars)
+<p align="center">
+  <a href="https://github.com/notobaqz">
+    <img src="https://komarev.com/ghpvc/?username=notobaqz&style=flat&label=views" />
+  </a>
+  <a href="https://github.com/notobaqz">
+    <img src="https://img.shields.io/github/followers/notobaqz?style=flat" />
+  </a>
+  <a href="https://github.com/notobaqz?tab=stars">
+    <img src="https://img.shields.io/github/stars/notobaqz?style=flat" />
+  </a>
+  <br><br>
+  <a href="https://discord.gg/KGt6RWDZe9">
+    <img src="https://img.shields.io/badge/Discord-Invite-blue?style=flat" />
+  </a>
+</p>
 
 ## **github analytics**
 
